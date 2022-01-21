@@ -28,7 +28,7 @@ jobs:
           push: true
           tags: 
            thethgomes/rotten-potatoes:latest
-           thethgomes/rotten-potatoes:${{ github.run_number }}
+           thethgomes/rotten-potatoes:${{ github.run_number}}
            
         
       

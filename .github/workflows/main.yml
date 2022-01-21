@@ -43,4 +43,4 @@ jobs:
           images: thethgomes/rotten-potatoes:${{github.run_number}}
           manifests: |
             k8s/deployment.yaml
-#
+
